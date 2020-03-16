@@ -1,5 +1,17 @@
-# Red-Teaming-Tools
-.
+# Red Teaming Tools
+
+This is a collection of a few tools I found useful for Red Teaming
+
+  - Linux
+  - Windows
+  - Source Files
+
+# Changelog!
+
+  - 16/03/2020 Initialized Repo
+
+# Tree
+
 ├── Linux
 │   ├── bloodhound-0.3.1.gem
 │   ├── Bloodhound.txt
